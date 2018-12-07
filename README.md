@@ -42,5 +42,4 @@
 建立在上面介绍的底层基础上的具体应用.
 
 * [HTTP](ch05/http.md)
-* [FTP](ch05/ftp.md)
 * [DNS](ch05/dns.md)
